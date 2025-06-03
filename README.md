@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I’m Aizaz Ullah Durrani
 
-<!--
-**aizazullahdurrani8/aizazullahdurrani8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a BS Software Engineering student passionate about Python, Linux, Ethical Hacking, Cybersecurity, Networking, and Databases.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Improving & Learning
+
+- Sharpening skills in Python, Linux, Ethical Hacking, Cybersecurity, Networking, and Databases  
+- Exploring new technologies like Artificial Intelligence (AI) and Flutter for mobile app development  
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+**Languages:** Python | SQL | Dart | C++  
+**Operating Systems:** Kali Linux | Windows 10 | Windows 11  
+**Frameworks:** Flutter  
+**Databases:** MySQL  
+**IDEs:** PyCharm | VS Code  
+
+---
+
+## 🏆 Certifications
+
+- IBM Cybersecurity Analyst  
+- Cybersecurity Attack and Defense Fundamentals  
+
+---
+
+## 📫 Connect with Me
+
+You can find my LinkedIn profile and email on my GitHub profile page. Feel free to reach out!
+
+---
+
+*Thank you for visiting my profile!*
