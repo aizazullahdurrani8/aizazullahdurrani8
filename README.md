@@ -64,4 +64,36 @@ Scans your local network to list IP and MAC addresses of connected devices. Buil
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aizazullahdurrani8&show_icons=true&theme=radical&hide_border=false" width="500" height="200" />
+</div>
+
+---
+
+## 📊 Most Used Languages
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizazullahdurrani8&layout=compact&theme=radical&hide_border=false" width="500" height="200" />
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aizazullahdurrani8&theme=radical&hide_border=false" width="500" height="200" />
+</div>
+
+---
+
+## 🌐 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aizazullahdurrani8&bg_color=0d1117&color=ffffff&line=5BCDEC&point=ffffff&area=true&hide_border=true" width="100%" />
+</div>
+
+---
+
 > *Thanks for visiting my GitHub profile! I’m open to internships, collaborations, and projects in cybersecurity, Python, and ethical hacking. Let’s build something impactful together.*
