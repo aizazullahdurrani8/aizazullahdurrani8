@@ -1,37 +1,67 @@
-# 👋 Hi, I’m Aizaz Ullah Durrani
+# 👋 Hello, I'm Aizaz Ullah Durrani
 
-I’m a BS Software Engineering student passionate about Python, Linux, Ethical Hacking, Cybersecurity, Networking, and Databases.
-
----
-
-## 🚀 Currently Improving & Learning
-
-- Sharpening skills in Python, Linux, Ethical Hacking, Cybersecurity, Networking, and Databases  
-- Exploring new technologies like Artificial Intelligence (AI) and Flutter for mobile app development  
+I’m a Software Engineering student passionate about Cybersecurity, Python, and Linux. I build practical tools, write clean code, and solve real-world security challenges. My mission is to make meaningful contributions to cybersecurity and evolve into a leading ethical hacker and security expert.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 👨‍💻 About Me
 
-**Languages:** Python | SQL | Dart | C++  
-**Operating Systems:** Kali Linux | Windows 10 | Windows 11  
-**Frameworks:** Flutter  
+- 🎓 Pursuing BS Software Engineering @ SUIT Peshawar (Expected Graduation 2026)  
+- 🧑‍🏫 Teaching Assistant with 1.5 years of experience supporting academic excellence  
+- 🔐 Focused on Ethical Hacking, Cybersecurity, and Python scripting  
+- 🧠 Exploring AI and Mobile App Development (Flutter) alongside cybersecurity  
+
+---
+
+## 🚀 Current Focus
+
+- Network & Web Application Security  
+- Python Automation for Cybersecurity  
+- Linux Systems & Networking  
+- Cross-platform Development (Flutter & Dart)  
+- Fundamentals of Artificial Intelligence  
+
+---
+
+## 🧰 Featured Projects
+
+### [`python-mac-address-changer`](https://github.com/aizazullahdurrani8/python-mac-address-changer)  
+A Python tool to temporarily change your Linux system’s MAC address, great for anonymization and network testing.
+
+### [`python-network-scanner`](https://github.com/aizazullahdurrani8/python-network-scanner)  
+Scans your local network to list IP and MAC addresses of connected devices. Built with Scapy, ideal for reconnaissance and diagnostics.
+
+> ⚒️ I focus on delivering clean, purposeful, security-driven solutions.
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages:** Python, SQL, Dart, C++  
+**Operating Systems:** Kali Linux, Windows, Android  
+**Frameworks & Tools:** Flutter, Git & GitHub  
 **Databases:** MySQL  
-**IDEs:** PyCharm | VS Code  
+**IDEs:** PyCharm, VS Code  
+**Other:** Canva, Adobe Photoshop, MS Office  
 
 ---
 
-## 🏆 Certifications
+## 📜 Certifications
 
-- IBM Cybersecurity Analyst  
+- IBM Cybersecurity Analyst (Coursera)  
 - Cybersecurity Attack and Defense Fundamentals  
+- Diploma in Information Technology  
 
 ---
 
-## 📫 Connect with Me
+## 🌟 Core Competencies
 
-You can find my LinkedIn profile and email on my GitHub profile page. Feel free to reach out!
+- Ethical Hacking & Penetration Testing  
+- Python Scripting & Automation  
+- Linux Administration & CLI Networking  
+- Technical Writing & Knowledge Sharing  
+- Communication & Mentorship  
 
 ---
 
-*Thank you for visiting my profile!*
+> *Thanks for visiting my GitHub profile! I’m open to internships, collaborations, and projects in cybersecurity, Python, and ethical hacking. Let’s build something impactful together.*
