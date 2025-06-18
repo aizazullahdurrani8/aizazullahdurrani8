@@ -83,7 +83,7 @@ Scans your local network to list IP and MAC addresses of connected devices. Buil
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aizazullahdurrani8&theme=radical&hide_border=false" width="500" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aizazullahdurrani8&theme=radical&hide_border=false" width="500" height="200" />
 </div>
 
 ---
