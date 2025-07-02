@@ -73,7 +73,7 @@ Python tool that performs ARP spoofing using Scapy to intercept communication be
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aizazullahdurrani8&show_icons=true&theme=radical&hide_border=false" width="500" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aizazullahdurrani8&show_icons=true&theme=radical&hide_border=false" />
 </div>
 
 ---
@@ -81,7 +81,7 @@ Python tool that performs ARP spoofing using Scapy to intercept communication be
 ## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizazullahdurrani8&layout=compact&theme=radical&hide_border=false" width="500" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aizazullahdurrani8&layout=compact&theme=radical&hide_border=false" />
 </div>
 
 ---
@@ -89,7 +89,7 @@ Python tool that performs ARP spoofing using Scapy to intercept communication be
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aizazullahdurrani8&theme=radical&hide_border=false" width="500" height="200" />
+  <img src="https://streak-stats.demolab.com?user=aizazullahdurrani8&theme=radical&hide_border=false" />
 </div>
 
 ---
