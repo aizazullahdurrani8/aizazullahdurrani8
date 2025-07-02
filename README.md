@@ -31,6 +31,12 @@ A Python tool to temporarily change your Linux system’s MAC address, great for
 ### [`python-network-scanner`](https://github.com/aizazullahdurrani8/python-network-scanner)  
 Scans your local network to list IP and MAC addresses of connected devices. Built with Scapy, ideal for reconnaissance and diagnostics.
 
+### [`python-arp-spoofer`](https://github.com/aizazullahdurrani8/python-arp-spoofer)  
+Python tool that performs ARP spoofing using Scapy to intercept communication between a target device and the network gateway.
+
+### [`python-dvwa-brute-force`](https://github.com/aizazullahdurrani8/python-dvwa-brute-force)  
+Python tool that performs ARP spoofing using Scapy to intercept communication between a target device and the network gateway.
+
 > ⚒️ I focus on delivering clean, purposeful, security-driven solutions.
 
 ---
@@ -83,7 +89,7 @@ Scans your local network to list IP and MAC addresses of connected devices. Buil
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aizazullahdurrani8&theme=radical&hide_border=false" width="500" height="200" />
+  <img src="https://streak-stats.demolab.com?user=aizazullahdurrani8&theme=radical&hide_border=false" width="500" height="200" />
 </div>
 
 ---
