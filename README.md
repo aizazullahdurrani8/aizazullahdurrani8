@@ -1,62 +1,50 @@
 # 👋 Hello, I'm Aizaz Ullah Durrani
 
-I’m a Software Engineering student passionate about Cybersecurity, Python, and Linux. I build practical tools, write clean code, and solve real-world security challenges. My mission is to make meaningful contributions to cybersecurity and evolve into a leading ethical hacker and security expert.
+I’m a 6th-semester Software Engineering student at SUIT Peshawar, passionate about Cybersecurity, Ethical Hacking, AI, and Python. I enjoy building practical tools, solving real-world security challenges, and learning new technologies every day. My goal is to grow as a skilled security expert while contributing meaningful projects to the cybersecurity community.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing BS Software Engineering @ SUIT Peshawar (Expected Graduation 2026)  
+- 🎓 Pursuing BS Software Engineering @ SUIT Peshawar (6th Semester, Expected Graduation 2027)  
 - 🧑‍🏫 Teaching Assistant with 1.5 years of experience supporting academic excellence  
 - 🔐 Focused on Ethical Hacking, Cybersecurity, and Python scripting  
-- 🧠 Exploring AI and Mobile App Development (Flutter) alongside cybersecurity  
+- 🧠 Exploring AI alongside cybersecurity  
 
 ---
 
 ## 🚀 Current Focus
 
-- Network & Web Application Security  
-- Python Automation for Cybersecurity  
-- Linux Systems & Networking  
-- Cross-platform Development (Flutter & Dart)  
-- Fundamentals of Artificial Intelligence  
-
----
-
-## 🧰 Featured Projects
-
-### [`python-mac-address-changer`](https://github.com/aizazullahdurrani8/python-mac-address-changer)  
-A Python tool to temporarily change your Linux system’s MAC address, great for anonymization and network testing.
-
-### [`python-network-scanner`](https://github.com/aizazullahdurrani8/python-network-scanner)  
-Scans your local network to list IP and MAC addresses of connected devices. Built with Scapy, ideal for reconnaissance and diagnostics.
-
-### [`python-arp-spoofer`](https://github.com/aizazullahdurrani8/python-arp-spoofer)  
-Python tool that performs ARP spoofing using Scapy to intercept communication between a target device and the network gateway.
-
-### [`python-dvwa-brute-force`](https://github.com/aizazullahdurrani8/python-dvwa-brute-force)  
-Python tool that performs ARP spoofing using Scapy to intercept communication between a target device and the network gateway.
-
-> ⚒️ I focus on delivering clean, purposeful, security-driven solutions.
+- Cybersecurity  
+- Ethical Hacking  
+- Artificial Intelligence  
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages:** Python, SQL, Dart, C++  
-**Operating Systems:** Kali Linux, Windows, Android  
-**Frameworks & Tools:** Flutter, Git & GitHub  
-**Databases:** MySQL  
-**IDEs:** PyCharm, VS Code  
-**Other:** Canva, Adobe Photoshop, MS Office  
+**Languages:** Python, C++, SQL  
+**Operating Systems:** Linux, Windows  
+**Tools & Frameworks:** Git, MySQL, Anaconda  
+**IDEs:** VS Code, PyCharm  
+**Other:** Canva, Photoshop, MS Office  
 
 ---
 
 ## 📜 Certifications
 
-- IBM Cybersecurity Analyst (Coursera)  
-- Cybersecurity Attack and Defense Fundamentals  
-- Diploma in Information Technology  
+1. Python 101: Develop Your First Python Program (Coursera)  
+2. Introduction to C++ Programming: Build a Calculator (Coursera)  
+3. Introduction to Ethical Hacking (Coursera)  
+4. Python for Cybersecurity (Coursera)  
+5. Advanced Python Scripting for Cybersecurity (Coursera)  
+6. CompTIA PenTest+ (PT0-002) (Coursera)  
+7. Certified Ethical Hacker (CEH) v12 (Coursera)  
+8. Certified in Cybersecurity (Coursera)  
+9. Certified Information Systems Security Professional (CISSP) (Coursera)  
+10. IBM Cybersecurity Analyst (Coursera)  
+11. Cybersecurity Attack and Defense Fundamentals (Coursera)  
+12. Diploma in Information Technology 
 
 ---
 
@@ -94,4 +82,4 @@ Python tool that performs ARP spoofing using Scapy to intercept communication be
 
 ---
 
-> *Thanks for visiting my GitHub profile! I’m open to internships, collaborations, and projects in cybersecurity, Python, and ethical hacking. Let’s build something impactful together.*
+> *Thanks for visiting my GitHub profile! I’m always open to collaborations, projects, and learning opportunities in Cybersecurity, Ethical Hacking, and AI. Let’s create something impactful together.*
